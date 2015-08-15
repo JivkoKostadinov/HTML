@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\HTML\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\bin\HTML5 HomeworkLesson3.dll.config
+D:\Programing\Start January 2015\HTML\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\bin\HTML5 HomeworkLesson3.dll
+D:\Programing\Start January 2015\HTML\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\bin\HTML5 HomeworkLesson3.pdb
+D:\Programing\Start January 2015\HTML\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\obj\Debug\HTML5 HomeworkLesson3.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\HTML\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\obj\Debug\HTML5 HomeworkLesson3.dll
+D:\Programing\Start January 2015\HTML\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\HTML5 HomeworkLesson3\obj\Debug\HTML5 HomeworkLesson3.pdb

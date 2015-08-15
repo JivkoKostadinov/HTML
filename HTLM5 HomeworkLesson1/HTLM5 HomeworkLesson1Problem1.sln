@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTLM5 HomeworkLesson1Problem1", "HTLM5 HomeworkLesson1Problem1\HTLM5 HomeworkLesson1Problem1.csproj", "{6B9D9B86-426C-4408-A669-F5F32BDAE3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5 HomeworkLesson1Problem2", "HomeworkLesson1Problem2\HTML5 HomeworkLesson1Problem2.csproj", "{3C544281-B470-4710-9210-4DA14BE5CEE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 3. Social site", "Problem 3. Social site", "{F6FC4161-8F96-40E0-BACE-6D36BC03EB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Social site", "Problem 3. Social site\Problem 3. Social site.csproj", "{9DFD62A7-D59C-4657-8425-B1DA25185511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9D9B86-426C-4408-A669-F5F32BDAE3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9D9B86-426C-4408-A669-F5F32BDAE3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9D9B86-426C-4408-A669-F5F32BDAE3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9D9B86-426C-4408-A669-F5F32BDAE3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C544281-B470-4710-9210-4DA14BE5CEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C544281-B470-4710-9210-4DA14BE5CEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C544281-B470-4710-9210-4DA14BE5CEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C544281-B470-4710-9210-4DA14BE5CEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFD62A7-D59C-4657-8425-B1DA25185511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFD62A7-D59C-4657-8425-B1DA25185511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFD62A7-D59C-4657-8425-B1DA25185511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFD62A7-D59C-4657-8425-B1DA25185511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9DFD62A7-D59C-4657-8425-B1DA25185511} = {F6FC4161-8F96-40E0-BACE-6D36BC03EB6B}
+	EndGlobalSection
+EndGlobal
